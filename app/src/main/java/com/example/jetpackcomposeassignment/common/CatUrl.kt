@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.commonimport com.example.jetpackcomposeassignment.BuildConfigobject CatUrl {    private const val BASE = BuildConfig.BASE_URL    const val API = "${BASE}/api/"    const val PICTURE = "${BASE}/cat/"}

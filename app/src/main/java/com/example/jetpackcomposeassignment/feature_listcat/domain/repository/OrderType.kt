@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.feature_listcat.domain.repositorysealed class OrderType {    object Ascending: OrderType()    object Descending: OrderType()}

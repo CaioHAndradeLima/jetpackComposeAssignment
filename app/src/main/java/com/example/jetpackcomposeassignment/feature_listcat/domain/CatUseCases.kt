@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.feature_listcat.domainimport com.example.jetpackcomposeassignment.feature_listcat.domain.use_case.GetCatimport com.example.jetpackcomposeassignment.feature_listcat.domain.use_case.GetCatsdata class CatUseCases(    val getCats: GetCats,    val getOneCat: GetCat,)
