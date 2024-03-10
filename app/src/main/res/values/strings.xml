@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackComposeAssignment</string>
+    <string name="try_again_message">please, try again after some time</string>
+    <string name="cat_detail_title">Details</string>
+    <string name="tags">tags associated</string>
+    <string name="cat_image_accessibility">cat picture</string>
+    <string name="an_unexpected_error_occured">An unexpected error occured</string>
+    <string name="check_your_internet_connection">Couldn\'t reach server. Check your internet connection.</string>
+</resources>

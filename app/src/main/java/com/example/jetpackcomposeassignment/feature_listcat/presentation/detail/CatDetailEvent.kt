@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.feature_listcat.presentation.detailsealed class CatDetailEvent {    data class FindOneCat(        val id: String,    ) : CatDetailEvent()}

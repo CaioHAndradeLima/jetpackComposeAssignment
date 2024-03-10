@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.feature_listcat.presentation.catssealed class CatEvent {    object Start : CatEvent()}

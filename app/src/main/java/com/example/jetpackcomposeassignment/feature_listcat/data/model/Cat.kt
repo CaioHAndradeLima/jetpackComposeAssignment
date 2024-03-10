@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.feature_listcat.data.modelimport com.google.gson.annotations.SerializedNamedata class Cat(    @SerializedName("_id") val id: String,    @SerializedName("tags") val tags: List<String>?,    @SerializedName("mimetype") val mimetype: String?,)

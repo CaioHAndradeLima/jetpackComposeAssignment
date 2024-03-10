@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.commonsealed class ScreenRoute(val route: String) {    object ListScreen: ScreenRoute("cat_list_screen")    object CatDetailScreen: ScreenRoute("cat_detail_screen")}
