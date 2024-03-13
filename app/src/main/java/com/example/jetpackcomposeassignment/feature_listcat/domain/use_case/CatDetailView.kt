@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.feature_listcat.domain.use_casedata class CatDetailView(    val id: String,    val mimetype: String?,    val name: String,    val origin: String,    val date: String,    val tags: List<String>,    val description: String,    val importantInfo: List<Pair<String, Int>>,)

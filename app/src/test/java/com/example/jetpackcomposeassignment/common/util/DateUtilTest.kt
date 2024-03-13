@@ -1,0 +1,1 @@
+package com.example.jetpackcomposeassignment.common.utilimport org.junit.Assert.assertEqualsimport org.junit.Testinternal class DateUtilTest {    @Test    fun whenFormatDate_ShouldFormatCorrectly() {        assertEquals(            "March 12, 2024",            toFormattedDate("2024-03-12T15:30:00Z")        )    }}
