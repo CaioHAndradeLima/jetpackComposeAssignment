@@ -3,7 +3,16 @@
     <string name="try_again_message">please, try again after some time</string>
     <string name="cat_detail_title">Details</string>
     <string name="tags">tags associated</string>
+    <string name="important_info">important information</string>
     <string name="cat_image_accessibility">cat picture</string>
     <string name="an_unexpected_error_occured">An unexpected error occured</string>
     <string name="check_your_internet_connection">Couldn\'t reach server. Check your internet connection.</string>
+    <string name="accept_lap">accept lap</string>
+    <string name="child_friendly">child friendly</string>
+    <string name="dog_friendly">dog friendly</string>
+    <string name="stranger_friendly">stranger friendly</string>
+    <string name="indoor">indoor cat</string>
+    <string name="few_energy">few energy</string>
+    <string name="medium_energy">medium energy</string>
+    <string name="full_energy">a lot energy cat</string>
 </resources>
