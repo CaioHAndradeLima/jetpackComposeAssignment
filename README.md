@@ -7,11 +7,6 @@
 <body>
 
 Hi there! I hope you like this project!</br>
-I turned available the APK on apk directory.
-
-access here:
-
-[Apk file](https://github.com/CaioHAndradeLima/jetpackComposeAssignment/tree/main/apk)<p>
 
 
 
